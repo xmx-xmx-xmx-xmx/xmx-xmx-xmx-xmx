@@ -1,5 +1,4 @@
-[👋Bonjour! I am Yimin Chen (xmx-xmx-xmx-xmx)!] (https://github.com/xmx-xmx-xmx-xmx/xmx-xmx-xmx-xmx)
-
+> 👋Bonjour! I am Yimin Chen (xmx-xmx-xmx-xmx)!
 ## Self Introduction
 Now Learning GIS in Fujian Normal University (China)
 👀 I’m interested in Python, GIS, RS, web, Deep Learning, Geography, etc.
