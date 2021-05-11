@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @xmx-xmx-xmx-xmx
+## 👋Bonjour! I am Yimin Chen (xmx-xmx-xmx-xmx)!
+- 
 - 👀 I’m interested in Python, GIS, web, Deep Learning, Geography, tech
 - 🌱 I’m currently learning Python, GIS, HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on ...
