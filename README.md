@@ -1,4 +1,5 @@
 > 👋Bonjour! I am Yimin Chen (xmx-xmx-xmx-xmx)!
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmx-xmx-xmx-xmx)](https://github.com/anuraghazra/github-readme-stats)
 ## Self Introduction
 Now Learning GIS in Fujian Normal University (China)
 👀 I’m interested in Python, GIS, RS, web, Deep Learning, Geography, etc.
