@@ -3,15 +3,15 @@
 Now Learning RS (nighttime light image) in Fuzhou University (China)
 👀 I’m interested in Python, GIS, RS, web, Deep Learning, Geography, etc.
 ## Currently Learning
-🌱 I’m currently learning Python (data analysis and data mining), GIS, RS
+🌱 I’m currently learning Python (data analysis and visualization), GIS, RS
 
 ## Projects & Scholarship
 ### Projects
-2020 GIS Development Contest -- Garbage Transfer Station Analysis based on AHP & GIS(GeoScene, China)
-2020 GIS 应用技能大赛 (CCNU, Online) The First Prize
+2021 GeoScene Development Contest -- 3rd prize
+2020 GIS 应用技能大赛 (CCNU, Online) 1st Prize
+...
 ### Scholarship
-2018-2019 3rd scholarship
-2019-2020 2nd scholarship
+scholarship for 4 times & outstanding graduates
 ...
 
 ## Language
