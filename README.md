@@ -1,9 +1,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmx-xmx-xmx-xmx)](https://github.com/anuraghazra/github-readme-stats)
 ## Self Introduction
-Now Learning GIS in Fujian Normal University (China)
+Now Learning RS (nighttime light image) in Fuzhou University (China)
 👀 I’m interested in Python, GIS, RS, web, Deep Learning, Geography, etc.
 ## Currently Learning
-🌱 I’m currently learning Python, GIS, HTML, CSS, JavaScript
+🌱 I’m currently learning Python (data analysis and data mining), GIS, RS
 
 ## Projects & Scholarship
 ### Projects
@@ -18,7 +18,7 @@ Now Learning GIS in Fujian Normal University (China)
 * Chinese
 * English (fluently)
 ## 📫 How to reach me:
-write an email to yimin710273791@gmail.com (Global) or 109092018027@student.fjnu.edu.cn (in China)
+write an email to yimin710273791@gmail.com (Global) or yimin710273791@outlook.com (in China)
 
 <!---
 xmx-xmx-xmx-xmx/xmx-xmx-xmx-xmx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
